@@ -9,7 +9,7 @@ export default function HeroSection() {
         className="absolute -top-40 left-0 md:left-60 md:-top-20"
         fill="white"
       />
-      <div className="flex flex-col items-center justify-center w-full text-center px-4 md:px-0 mt-8 md:mt-0 relative z-10">
+      <div className="flex flex-col items-center justify-center w-full text-center px-4 md:px-0 mt-8 md:mt-44 relative z-10">
         <h1 className="text-3xl md:text-5xl lg:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">
           Hey! Im Abhishek Singh
         </h1>
