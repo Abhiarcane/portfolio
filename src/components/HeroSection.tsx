@@ -11,10 +11,10 @@ export default function HeroSection() {
       />
       <div className="flex flex-col items-center justify-center w-full text-center px-4 md:px-0 mt-8 md:mt-0 relative z-10">
         <h1 className="text-3xl md:text-5xl lg:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">
-          Hey! I'm Abhishek Singh
+          Hey! Im Abhishek Singh
         </h1>
         <p className="mt-4 text-base md:text-lg lg:text-xl text-neutral-300 max-w-lg mx-auto">
-          I'm a FrontEnd Web Developer based in Agra. I create interactive
+          Im a FrontEnd Web Developer based in Agra. I create interactive
           websites using HTML, CSS, JavaScript, and React.js.
         </p>
         <div className="mt-6">

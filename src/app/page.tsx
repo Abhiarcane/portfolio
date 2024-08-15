@@ -32,7 +32,7 @@ export default function Home() {
             Get in touch with me
           </p>
           <p className="text-base md:text-lg mt-4 text-white font-normal inter-var text-center">
-            I'm open to job opportunities that align with my skills
+            Im open to job opportunities that align with my skills
           </p>
           <div className="text-center mt-8">
             <Link href="mailto:abhisingh.april@gmail.com">
